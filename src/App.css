@@ -1,0 +1,30 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.filter-item {
+    padding: 1em;
+    margin: 1em;
+    border-radius: 30px;
+    background-color: lightgrey;
+}
+
+.filter-item:hover {
+    background-color: white;
+}
+
+.filter-item-text {
+    padding: 0 20px
+}
+
+.header {
+    text-align: center;
+    margin: 2em;
+}
+
+.list-group {
+    margin-top: 2em;
+    height: 500px;
+    overflow: scroll;
+}
