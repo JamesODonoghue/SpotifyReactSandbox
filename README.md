@@ -1,5 +1,5 @@
-# PortfolioSite
-This is my portfolio website
+# React-redux and Spotify app
+This is my app for sending requests to the Spotify service. 
 
 ## Getting Started
 
@@ -34,23 +34,12 @@ This will start the webpack dev server at http://localhost:3000
 
 No tests yet
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-ReactJS and React-Router. Deployed on Heroku
+ReactJS and Redux
 
-Styled using Bootstrap 4 and Sass
+Styled using Bootstrap
 
 ## Authors
 
@@ -60,7 +49,3 @@ Styled using Bootstrap 4 and Sass
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Liza for artistic inspiration
