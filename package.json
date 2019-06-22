@@ -41,7 +41,6 @@
     "reselect": "^4.0.0",
     "cookie-parser": "^1.4.3",
     "history": "^4.7.2",
-    "npm": "^6.9.0",
     "popper.js": "^1.15.0",
     "progressbar.js": "^1.0.1",
     "rc-progress": "^2.2.5",
